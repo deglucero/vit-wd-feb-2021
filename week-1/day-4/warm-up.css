@@ -1,0 +1,16 @@
+h1 {
+  text-transform: lowercase;
+  color: aqua;
+  font-family: 'DotGothic16', sans-serif;
+
+}
+
+h2 {
+  text-align: right;
+  color: antiquewhite;
+}
+
+h3 {
+  font-size: 58px;
+  color: blueviolet;
+}
