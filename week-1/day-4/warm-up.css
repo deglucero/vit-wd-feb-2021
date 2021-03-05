@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   text-transform: lowercase;
   color: aqua;
@@ -13,4 +14,14 @@ h2 {
 h3 {
   font-size: 58px;
   color: blueviolet;
+=======
+body {
+    background-color: grey;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+>>>>>>> 51eae5cb24e519e4f109844c0964d058d3049c38
 }
